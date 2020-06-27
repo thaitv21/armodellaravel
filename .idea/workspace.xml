@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683c8255-1d9f-4873-9675-f4b136f32cb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FileController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -163,18 +161,6 @@
       <path value="$PROJECT_DIR$/vendor/grpc/grpc" />
       <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
       <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
-      <path value="$PROJECT_DIR$/vendor/kreait/clock" />
-      <path value="$PROJECT_DIR$/vendor/kreait/firebase-php" />
-      <path value="$PROJECT_DIR$/vendor/kreait/gcp-metadata" />
-      <path value="$PROJECT_DIR$/vendor/kreait/firebase-tokens" />
-      <path value="$PROJECT_DIR$/vendor/google/crc32" />
-      <path value="$PROJECT_DIR$/vendor/google/cloud-storage" />
-      <path value="$PROJECT_DIR$/vendor/riverline/multipart-parser" />
-      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
-      <path value="$PROJECT_DIR$/vendor/giggsey/libphonenumber-for-php" />
-      <path value="$PROJECT_DIR$/vendor/giggsey/locale" />
-      <path value="$PROJECT_DIR$/vendor/fig/http-message-util" />
-      <path value="$PROJECT_DIR$/vendor/superbalist/flysystem-google-storage" />
     </include_path>
   </component>
   <component name="ProjectId" id="1dWilQhpa5E13dxQ07NaxCkTRqu" />
@@ -237,7 +223,7 @@
       <workItem from="1592664385989" duration="950000" />
       <workItem from="1592834357089" duration="5385000" />
       <workItem from="1592921618086" duration="6804000" />
-      <workItem from="1593237784323" duration="14641000" />
+      <workItem from="1593237784323" duration="15050000" />
     </task>
     <servers />
   </component>
